@@ -1,6 +1,6 @@
 #include <iomanip>
 #include <iostream>
-/** using namespace std;
+using namespace std;
 
 int main() {
 	string s;
@@ -13,4 +13,4 @@ int main() {
 		}
 	}
     return 0;
-} **/
+}
