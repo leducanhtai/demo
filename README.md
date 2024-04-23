@@ -9,4 +9,7 @@
 - ảnh, HP là đối tượng mà Sprite ăn đẻ hồi máu.
 - ảnh Sheild là đối tượng Sprite ăn để được bất tử.
 ## Mô tả game play và xử lý va chạm
+- Di chuyển Sprite bằng các nút mũi tên ← → và bắn đạn bằng nút f.
+- Các FallingImage sẽ rơi từ trên xuống.
+- Trong một màn chơi, Sprite sẽ được người chơi di chuyển, bắn nổ những FaliingImage và ghi điểm , đồng thời né những FallingImage và thu thập điểm với mục tiêu là đạt số điểm cao nhất có thể.
 
