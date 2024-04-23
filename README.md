@@ -1,10 +1,11 @@
 # SDL2-PLANE AND BOMB-GAME-INT-UET
 ## Video Demo: https://www.facebook.com/profile.php?id=100069385633621
 ## 1. Hướng dẫn cài đặt
-cách cài đặt
+### cách cài đặt
 - Để khởi động trò chơi, click main.exe.
 - 
 ## 2. Mô tả chung
+### giới thiệu chung
 - game plane and bomb là game bắn máy bay đơn giản
 - ...........
 
